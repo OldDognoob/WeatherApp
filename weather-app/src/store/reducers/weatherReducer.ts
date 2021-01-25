@@ -1,3 +1,4 @@
+// Create WeatherReducer
 import {
   WeatherState,
   WeatherAction,
